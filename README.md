@@ -1,4 +1,4 @@
-# philip_creditscoring
+# PhillipBank_CreditScoring
 Credit Risk Analysis Project
 ============================
 
